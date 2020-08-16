@@ -8,8 +8,8 @@
 
 ## Currently a Web Developer slowly progressing to ML !
 
-- 🔨 I’m currently working on a Laravel <img alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-- 📖  I’m currently learning everything related to ML 🤣 🤖
+- 🔨 Currently working on a Laravel <img alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+- 📖  Learning everything related to ML 🤣 🤖
 - 🎯 2020 Goals: Contribute more to Open Source projects and probably get a Tensorflow <img  alt="TensorFlow" width="30px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" /> Certificate 🤞🏻
 - ⚡ Fun fact: I love cooking 👨‍🍳
 
@@ -30,6 +30,8 @@
 <img align="left" alt="TensorFlow" width="40px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" />
 <img align="left" alt="VueJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> 
 <img align="left" alt="FireBase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<br>
+<br>
 <br>
 <br>
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DhirajNavale&count_private=true" />
