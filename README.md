@@ -22,6 +22,7 @@
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
 <br>
 <br>
 
@@ -30,6 +31,8 @@
 <img align="left" alt="TensorFlow" width="40px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" />
 <img align="left" alt="VueJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> 
 <img align="left" alt="FireBase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="D3" width="40px" src="https://avatars1.githubusercontent.com/u/1562726?s=200&v=46facdc8547e2abf7/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" />
+<img align="left" alt="Streamlit" width=50px" src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" />
 <br>
 <br>
 <br>
