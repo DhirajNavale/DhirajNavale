@@ -8,9 +8,9 @@
 
 ## Currently a Web Developer slowly progressing to ML !
 
-- 🔨 Currently working on a Laravel <img alt="Laravel" title="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+- 🔨 Currently working on a Laravel <img alt="Laravel" title="Laravel" width="25px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 - 📖  Learning everything related to ML 🤣 🤖
-- 🎯 2020 Goals: Contribute more to Open Source projects and probably get a Tensorflow <img  alt="TensorFlow" title="TensorFlow" width="30px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" /> Certificate 🤞🏻
+- 🎯 2020 Goals: Contribute more to Open Source projects and probably get a Tensorflow <img  alt="TensorFlow" title="TensorFlow" width="25px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" /> Certificate 🤞🏻
 - ⚡ Fun fact: I love cooking 👨‍🍳
 
 ## Languages and Tools I Know/Use:
