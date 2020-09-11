@@ -1,9 +1,6 @@
 # Hi there, I'm Dhiraj Navale  👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/djNavale?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDhirajr&screen_name=djNavale)
-&nbsp;
-
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/)
 
 ## Currently a Web Developer slowly progressing to ML !
