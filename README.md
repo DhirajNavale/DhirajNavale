@@ -3,9 +3,9 @@
 
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/)
 
-## Currently a Web Developer slowly progressing to ML !
+## Currently a Web Developer, progressing to ML !
 
-- 🔨 Currently working on  Spring Boot <img align="left" alt="Spring Boot" title="Spring Boot" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+- 🔨 Currently working on  Spring Boot <img alt="Spring Boot" title="Spring Boot" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> and MySQL <img alt="MySQL" title="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 - 📖  Learning everything related to ML 🤣 🤖
 - 🎯 2021 Goals: Contribute more to Open Source projects and probably get a Tensorflow <img  alt="TensorFlow" title="TensorFlow" width="25px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" /> Certificate 🤞🏻
 - ⚡ Fun fact: I love cooking 👨‍🍳
