@@ -25,7 +25,7 @@
 <br>
 <br>
 
-## Languages and Tools I want to Learn:
+## Languages and Tools I'm Learning:
 
 <img align="left" alt="TensorFlow" title="TensorFlow" width="40px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" />
 <img align="left" alt="VueJS" title="VueJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
