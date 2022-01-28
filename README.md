@@ -3,11 +3,10 @@
 
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/)
 
-## Currently a Web Developer, progressing to ML !
+## Backend Developer!
 
-- 🔨 Currently working on  Spring Boot <img alt="Spring Boot" title="Spring Boot" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> and MySQL <img alt="MySQL" title="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-- 📖  Learning everything related to ML 🤣 🤖
-- 🎯 2021 Goals: Contribute more to Open Source projects and probably get a Tensorflow <img  alt="TensorFlow" title="TensorFlow" width="25px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" /> Certificate 🤞🏻
+- 🔨 Currently working on  Spring Boot <img alt="Spring Boot" title="Spring Boot" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> and Postgre Sql <img alt="Postgre Sql" title="Postgre Sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+- 🎯 2021 Goals: Contribute more to Open Source projects and learn kafka <img  alt="Apache Kafka" title="Apache Kafka" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-3OAdyrabFpU%2FWayo7MBZvOI%2FAAAAAAAAMw8%2FDump7yCJkWYipRfqNwLjxdju_geSzeQggCLcBGAs%2Fw1200-h630-p-k-no-nu%2Fapache-kafka.png&f=1&nofb=1" /> 
 - ⚡ Fun fact: I love cooking 👨‍🍳
 
 ## Languages and Tools I Know/Use:
@@ -27,10 +26,10 @@
 
 ## Languages and Tools I'm Learning:
 
-<img align="left" alt="TensorFlow" title="TensorFlow" width="40px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" />
+<img align="left" alt="Apache Kafka" title="Apache Kafka" width="80px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-3OAdyrabFpU%2FWayo7MBZvOI%2FAAAAAAAAMw8%2FDump7yCJkWYipRfqNwLjxdju_geSzeQggCLcBGAs%2Fw1200-h630-p-k-no-nu%2Fapache-kafka.png&f=1&nofb=1" />
 <img align="left" alt="VueJS" title="VueJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="D3.js" title="D3.js" width="40px" src="https://avatars1.githubusercontent.com/u/1562726?s=200&v=46facdc8547e2abf7/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" />
-<img align="left" alt="Streamlit" title="Streamlit" width=50px" src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" />
+<img align="left" alt="Nuxt.js" title="Nuxt.js" width="80px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftorii-world.net%2Fwp-content%2Fuploads%2F2018%2F08%2Fnuxt-js.png&f=1&nofb=1" />
 <br>
 <br>
 <br>
