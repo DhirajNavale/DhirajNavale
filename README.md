@@ -6,7 +6,7 @@
 ## Backend Developer!
 
 - 🔨 Currently working on  Spring Boot <img alt="Spring Boot" title="Spring Boot" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> and Postgre Sql <img alt="Postgre Sql" title="Postgre Sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-- 🎯 2023 Goals: Contribute more to Open Source projects and learn kafka <img  alt="Apache Kafka" title="Apache Kafka" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-3OAdyrabFpU%2FWayo7MBZvOI%2FAAAAAAAAMw8%2FDump7yCJkWYipRfqNwLjxdju_geSzeQggCLcBGAs%2Fw1200-h630-p-k-no-nu%2Fapache-kafka.png&f=1&nofb=1" /> 
+- 🎯 2024 Goals: Contribute more to Open Source projects and learn kafka <img  alt="Apache Kafka" title="Apache Kafka" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-3OAdyrabFpU%2FWayo7MBZvOI%2FAAAAAAAAMw8%2FDump7yCJkWYipRfqNwLjxdju_geSzeQggCLcBGAs%2Fw1200-h630-p-k-no-nu%2Fapache-kafka.png&f=1&nofb=1" /> 
 
 
 ## Languages and Tools I Know/Use:
